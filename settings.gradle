@@ -1,0 +1,3 @@
+include ':component_timepillar'
+include ':app'
+rootProject.name = "TimePillar"

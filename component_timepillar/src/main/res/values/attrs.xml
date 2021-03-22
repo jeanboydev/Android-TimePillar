@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TimePillarView">
+        <!-- 标题 -->
+        <attr name="headUpText" format="string" />
+        <attr name="headDownText" format="string" />
+        <attr name="headUpTextColor" format="color" />
+        <attr name="headDownTextColor" format="color" />
+        <attr name="headTextSize" format="dimension" />
+        <attr name="headTextMargin" format="dimension" />
+        <!-- 尺子 -->
+        <attr name="rulerLineColor" format="color" />
+        <attr name="rulerTextColor" format="color" />
+        <attr name="rulerTextSize" format="dimension" />
+        <!-- 柱子 -->
+        <attr name="pillarUpStartColor" format="color" />
+        <attr name="pillarUpEndColor" format="color" />
+        <attr name="pillarUpTextColor" format="color" />
+        <attr name="pillarDownStartColor" format="color" />
+        <attr name="pillarDownEndColor" format="color" />
+        <attr name="pillarDownTextColor" format="color" />
+        <attr name="pillarTextSize" format="dimension" />
+        <attr name="pillarTextMargin" format="dimension" />
+        <!-- 背景 -->
+        <attr name="bgUpStartColor" format="color" />
+        <attr name="bgUpEndColor" format="color" />
+        <attr name="bgDownStartColor" format="color" />
+        <attr name="bgDownEndColor" format="color" />
+    </declare-styleable>
+</resources>
